@@ -7,6 +7,10 @@
 - ⚡ Fun fact: ...
 喵喵喵喵喵喵喵喵喵喵喵
 
+这直接就写了？ 
+之后还要学学md文件是是什么，久仰大名
+
+
 
 <!---
 amstlkqp114514/amstlkqp114514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
